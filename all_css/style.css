@@ -1,11 +1,18 @@
 body{
-    background-color: blue;
-    color: white;
+    background-color: teal;
     width: auto;
 }
+/* here is an external css for the paragraph in the index page*/
 p{
     background-color: black;
+    color: white;
 }
 a{
     color: hsl(120, 96%, 52%);
+}
+.BC{
+    background-color: blue;
+}
+.pal{
+    color: red;
 }
